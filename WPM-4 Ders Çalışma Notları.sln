@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console örnek sorular", "Console örnek sorular", "{944F2937-3127-43AC-B865-11711CFF3723}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consoleörneksoruveçözümler", "Consoleörneksoruveçözümler\Consoleörneksoruveçözümler.csproj", "{2C002304-012B-4B49-9C42-97B01D44C301}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day2 haftasonu ödev", "day2 haftasonu ödev", "{42BFEDAA-A017-4B3C-8E19-E44834D69AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BomOyunu", "BomOyunu\BomOyunu.csproj", "{F72B2C54-1A47-4789-A51C-1B3899428372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C002304-012B-4B49-9C42-97B01D44C301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C002304-012B-4B49-9C42-97B01D44C301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C002304-012B-4B49-9C42-97B01D44C301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C002304-012B-4B49-9C42-97B01D44C301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72B2C54-1A47-4789-A51C-1B3899428372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72B2C54-1A47-4789-A51C-1B3899428372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72B2C54-1A47-4789-A51C-1B3899428372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72B2C54-1A47-4789-A51C-1B3899428372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C002304-012B-4B49-9C42-97B01D44C301} = {944F2937-3127-43AC-B865-11711CFF3723}
+		{42BFEDAA-A017-4B3C-8E19-E44834D69AED} = {944F2937-3127-43AC-B865-11711CFF3723}
+		{F72B2C54-1A47-4789-A51C-1B3899428372} = {42BFEDAA-A017-4B3C-8E19-E44834D69AED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE97B2A-D739-40F7-B45D-3211E5498CBB}
+	EndGlobalSection
+EndGlobal

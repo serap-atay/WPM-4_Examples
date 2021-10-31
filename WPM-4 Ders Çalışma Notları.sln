@@ -29,23 +29,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToplamınıBulanProgram", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DailyTasks", "DailyTasks", "{3494C137-661A-4D6B-B24E-FB724FB0D5E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcgenAlanı", "UcgenAlanı\UcgenAlanı.csproj", "{1D638E0A-B84F-4280-AEFC-157277D37512}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcgenAlanı", "UcgenAlanı\UcgenAlanı.csproj", "{1D638E0A-B84F-4280-AEFC-157277D37512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PozitifmiNegatifmi", "PozitifmiNegatifmi\PozitifmiNegatifmi.csproj", "{8180BB39-DF69-4D2D-8E45-DE4CA0044D97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PozitifmiNegatifmi", "PozitifmiNegatifmi\PozitifmiNegatifmi.csproj", "{8180BB39-DF69-4D2D-8E45-DE4CA0044D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ve5BölünebilenSayilar", "3ve5BölünebilenSayilar\3ve5BölünebilenSayilar.csproj", "{5135E153-D24F-40FE-AE4D-406368B32821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3ve5BölünebilenSayilar", "3ve5BölünebilenSayilar\3ve5BölünebilenSayilar.csproj", "{5135E153-D24F-40FE-AE4D-406368B32821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GecerliGecersiz", "GecerliGecersiz\GecerliGecersiz.csproj", "{73086997-2F64-49AF-A2D9-E90D135AC728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GecerliGecersiz", "GecerliGecersiz\GecerliGecersiz.csproj", "{73086997-2F64-49AF-A2D9-E90D135AC728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatıSıvıGazOyunu", "KatıSıvıGazOyunu\KatıSıvıGazOyunu.csproj", "{E4BEF458-FDA4-4A02-AE9B-47A387630C7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatıSıvıGazOyunu", "KatıSıvıGazOyunu\KatıSıvıGazOyunu.csproj", "{E4BEF458-FDA4-4A02-AE9B-47A387630C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girilen10sayınınnToplamı", "Girilen10sayınınnToplamı\Girilen10sayınınnToplamı.csproj", "{598FB0BB-C867-476E-923B-3B8A346BE49F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Girilen10sayınınnToplamı", "Girilen10sayınınnToplamı\Girilen10sayınınnToplamı.csproj", "{598FB0BB-C867-476E-923B-3B8A346BE49F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1denNsayısı", "1denNsayısı\1denNsayısı.csproj", "{ADF200BD-C496-4739-A71B-35201D111615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1denNsayısı", "1denNsayısı\1denNsayısı.csproj", "{ADF200BD-C496-4739-A71B-35201D111615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDVHesaplama", "KDVHesaplama\KDVHesaplama.csproj", "{23ABE267-C2AB-473D-A021-608441C39829}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDVHesaplama", "KDVHesaplama\KDVHesaplama.csproj", "{23ABE267-C2AB-473D-A021-608441C39829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SayıdanBüyükOlanıBulma", "3SayıdanBüyükOlanıBulma\3SayıdanBüyükOlanıBulma.csproj", "{2AE3F146-C067-417B-9D2A-5448BC459F22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3SayıdanBüyükOlanıBulma", "3SayıdanBüyükOlanıBulma\3SayıdanBüyükOlanıBulma.csproj", "{2AE3F146-C067-417B-9D2A-5448BC459F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabrikaİsciUcretiHesaplama", "FabrikaİsciUcretiHesaplama\FabrikaİsciUcretiHesaplama.csproj", "{F31E25B0-8417-4156-AC31-E6CD46A8C680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DereceDenklemKökleri", "2DereceDenklemKökleri\2DereceDenklemKökleri.csproj", "{CCEDE754-972F-4E77-99F9-C4C7E596A227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasamakDeğeriBulanProgram", "BasamakDeğeriBulanProgram\BasamakDeğeriBulanProgram.csproj", "{7188697C-0381-4190-B0BC-325AA27B5D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonksiyonAlıştırmaları", "FonksiyonAlıştırmaları\FonksiyonAlıştırmaları.csproj", "{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseAlıstımalar", "SwitchCaseAlıstımalar\SwitchCaseAlıstımalar.csproj", "{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +131,26 @@ Global
 		{2AE3F146-C067-417B-9D2A-5448BC459F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE3F146-C067-417B-9D2A-5448BC459F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE3F146-C067-417B-9D2A-5448BC459F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31E25B0-8417-4156-AC31-E6CD46A8C680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31E25B0-8417-4156-AC31-E6CD46A8C680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31E25B0-8417-4156-AC31-E6CD46A8C680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31E25B0-8417-4156-AC31-E6CD46A8C680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEDE754-972F-4E77-99F9-C4C7E596A227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEDE754-972F-4E77-99F9-C4C7E596A227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEDE754-972F-4E77-99F9-C4C7E596A227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEDE754-972F-4E77-99F9-C4C7E596A227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7188697C-0381-4190-B0BC-325AA27B5D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7188697C-0381-4190-B0BC-325AA27B5D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7188697C-0381-4190-B0BC-325AA27B5D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7188697C-0381-4190-B0BC-325AA27B5D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +176,11 @@ Global
 		{ADF200BD-C496-4739-A71B-35201D111615} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
 		{23ABE267-C2AB-473D-A021-608441C39829} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
 		{2AE3F146-C067-417B-9D2A-5448BC459F22} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
+		{F31E25B0-8417-4156-AC31-E6CD46A8C680} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
+		{CCEDE754-972F-4E77-99F9-C4C7E596A227} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
+		{7188697C-0381-4190-B0BC-325AA27B5D43} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
+		{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
+		{D97E7860-3B8C-4F35-861D-19C9C01FE9B3} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ADE97B2A-D739-40F7-B45D-3211E5498CBB}

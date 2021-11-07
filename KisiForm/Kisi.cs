@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace KisiForm
 {
-   public class Kisi
+    public class Kisi
     {
         private string _ad;
         private string _soyad;
-        private string _tc;
-        public DateTime DogumYili { get; set; }
+        public DateTime DogumYili { get; set; }   
         public string Ad
         {
             get

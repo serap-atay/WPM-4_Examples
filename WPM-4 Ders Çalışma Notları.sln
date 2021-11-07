@@ -47,21 +47,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDVHesaplama", "KDVHesaplam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3SayıdanBüyükOlanıBulma", "3SayıdanBüyükOlanıBulma\3SayıdanBüyükOlanıBulma.csproj", "{2AE3F146-C067-417B-9D2A-5448BC459F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabrikaİsciUcretiHesaplama", "FabrikaİsciUcretiHesaplama\FabrikaİsciUcretiHesaplama.csproj", "{F31E25B0-8417-4156-AC31-E6CD46A8C680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FabrikaİsciUcretiHesaplama", "FabrikaİsciUcretiHesaplama\FabrikaİsciUcretiHesaplama.csproj", "{F31E25B0-8417-4156-AC31-E6CD46A8C680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DereceDenklemKökleri", "2DereceDenklemKökleri\2DereceDenklemKökleri.csproj", "{CCEDE754-972F-4E77-99F9-C4C7E596A227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DereceDenklemKökleri", "2DereceDenklemKökleri\2DereceDenklemKökleri.csproj", "{CCEDE754-972F-4E77-99F9-C4C7E596A227}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasamakDeğeriBulanProgram", "BasamakDeğeriBulanProgram\BasamakDeğeriBulanProgram.csproj", "{7188697C-0381-4190-B0BC-325AA27B5D43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasamakDeğeriBulanProgram", "BasamakDeğeriBulanProgram\BasamakDeğeriBulanProgram.csproj", "{7188697C-0381-4190-B0BC-325AA27B5D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonksiyonAlıştırmaları", "FonksiyonAlıştırmaları\FonksiyonAlıştırmaları.csproj", "{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FonksiyonAlıştırmaları", "FonksiyonAlıştırmaları\FonksiyonAlıştırmaları.csproj", "{82A5374E-5F68-4EAE-ABA4-F413F5AFE0F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseAlıstımalar", "SwitchCaseAlıstımalar\SwitchCaseAlıstımalar.csproj", "{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCaseAlıstımalar", "SwitchCaseAlıstımalar\SwitchCaseAlıstımalar.csproj", "{D97E7860-3B8C-4F35-861D-19C9C01FE9B3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WinForm", "WinForm", "{FFB0BF7D-E3B2-41B1-BDA1-C4573007A8C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiForm", "KisiForm\KisiForm.csproj", "{39AB8945-9983-4719-BDE3-AF03ECB727F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KisiForm", "KisiForm\KisiForm.csproj", "{39AB8945-9983-4719-BDE3-AF03ECB727F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kisi.Models", "Kisi.Models\Kisi.Models.csproj", "{7D1F8F00-344B-4BE9-AC36-90326E363234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kisi.Models", "Kisi.Models\Kisi.Models.csproj", "{7D1F8F00-344B-4BE9-AC36-90326E363234}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 7", "Day 7", "{D075C3C0-FF37-4F52-86DB-55F282F06C90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentMethod", "PaymentMethod\PaymentMethod.csproj", "{43D61D09-5C71-4DED-A0EA-BF3A2BCAC354}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentMethod.Models", "PaymentMethod.Models\PaymentMethod.Models.csproj", "{76B58847-E74E-4A0D-9D2D-A0E275285AD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 8 task", "Day 8 task", "{131D1112-2DDF-4222-AA70-6BC238907F4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +173,14 @@ Global
 		{7D1F8F00-344B-4BE9-AC36-90326E363234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D1F8F00-344B-4BE9-AC36-90326E363234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D1F8F00-344B-4BE9-AC36-90326E363234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D61D09-5C71-4DED-A0EA-BF3A2BCAC354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D61D09-5C71-4DED-A0EA-BF3A2BCAC354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D61D09-5C71-4DED-A0EA-BF3A2BCAC354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D61D09-5C71-4DED-A0EA-BF3A2BCAC354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B58847-E74E-4A0D-9D2D-A0E275285AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B58847-E74E-4A0D-9D2D-A0E275285AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B58847-E74E-4A0D-9D2D-A0E275285AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B58847-E74E-4A0D-9D2D-A0E275285AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +213,10 @@ Global
 		{D97E7860-3B8C-4F35-861D-19C9C01FE9B3} = {C5605A2B-5395-408C-9051-A9F61CD1867C}
 		{39AB8945-9983-4719-BDE3-AF03ECB727F7} = {FFB0BF7D-E3B2-41B1-BDA1-C4573007A8C9}
 		{7D1F8F00-344B-4BE9-AC36-90326E363234} = {FFB0BF7D-E3B2-41B1-BDA1-C4573007A8C9}
+		{D075C3C0-FF37-4F52-86DB-55F282F06C90} = {3494C137-661A-4D6B-B24E-FB724FB0D5E6}
+		{43D61D09-5C71-4DED-A0EA-BF3A2BCAC354} = {D075C3C0-FF37-4F52-86DB-55F282F06C90}
+		{76B58847-E74E-4A0D-9D2D-A0E275285AD0} = {D075C3C0-FF37-4F52-86DB-55F282F06C90}
+		{131D1112-2DDF-4222-AA70-6BC238907F4C} = {3494C137-661A-4D6B-B24E-FB724FB0D5E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ADE97B2A-D739-40F7-B45D-3211E5498CBB}
